@@ -50,8 +50,9 @@ sudo docker-compose up -d
 如果该项目对您有所帮助，希望可以请我喝一杯咖啡☕️
 Usdt(trc20)打赏地址: 
 ```
-TYQfioyM9iTnHorDRa6vJXLcA6aeZo6887
+TYsBL3pvwzS6PPi9rYCR4n3WixTbWUya8J
 ```
+
 
 
 ## 灵感来自以下的项目
